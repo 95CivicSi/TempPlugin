@@ -1,0 +1,6 @@
+---
+name: TempPlugin
+version: 0.0.1
+main: BreathTakinglyBinary\tempplugin\TempPlugin
+api: 3.11.0
+...
